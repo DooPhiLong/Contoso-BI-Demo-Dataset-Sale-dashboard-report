@@ -128,3 +128,5 @@ Provide detail information of Orders
   - Visualize
   - Analyze
   - Dax fucntion
+- SQL Server
+  - database storage

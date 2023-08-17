@@ -113,10 +113,7 @@ Provide detail information of Orders
 #### Sample first 10 row of FactSales dataset
 ![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/1dce69e5-f153-430d-a29a-eda4e6503cbd)
 
-## A. [Data Exploration and Cleaning by Power query](https://github.com/DooPhiLong/E-commerce-dashboard-report/blob/main/Data%20mining%20and%20cleaning.md)
-
-
-
+## A. [Data Preparation and Mining](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/blob/main/Data%20preparation%20and%20mining.md)
 ## B. [Analysis](https://github.com/DooPhiLong/E-commerce-dashboard-report/blob/main/Analyst%20and%20dashboard%20report.md)
 
 ---

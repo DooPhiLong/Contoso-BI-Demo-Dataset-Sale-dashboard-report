@@ -12,6 +12,7 @@ You are a Data Analyst working for an e-commerce company named X. You are tasked
 ### Some additional information for the case study:
 - The business database based on The Contoso BI Demo dataset is used to demonstrate DW/BI functionalities across the entire Microsoft Office product family. This dataset includes C-level, sales/marketing, IT, and common finance scenarios for the retail industry and support map integration. In addition, this dataset offers large volumes of transactions from OLTP and well-structured aggregations from OLAP, along with reference and dimension data.
 - Since this is a virtual database, numbers such as revenue, costs... are also symbolic. But it does not affect the mining process, data analysis and conclusions for the report
+- The Sale bussiness in this case just run from 2007 to 2009.
 
 ## 📂 Datasets
 ### Introduce about the dataset
@@ -20,7 +21,7 @@ You are a Data Analyst working for an e-commerce company named X. You are tasked
 The Contoso database consists of tables such as Customer, Order, OrderDetail, and Product, each containing different information about the company's customers, orders, order details, and products. These tables have relationships with each other, allowing for complex and efficient data queries. For example, a customer can have many different orders, and each order can have many different line items.
 - These data can be used for data analysis, visualization, and training of predictive and classification models. In education, Contoso is often used as an example to teach concepts in many areas such as databases, application development, and systems management.
 - If you are interested in the dataset. Please visit this one [Here](https://www.microsoft.com/en-us/download/details.aspx?id=18279&44F86079-8679-400C-BFF2-9CA5F2BCBDFC=1)
-- This database has a lot of tables showing data from different parts of the business system, but I have only pulled out a few tables also attribute in table below to do the required analysis (I'm going to explant more clearly on **Data Preparation, Exploration and Cleaning part**)
+- This database has a lot of tables showing data from different parts of the business system, but I have only pulled out a few tables also attribute in table below to do the required analysis (I'm going to explant more clearly on **Data Preparation and Mining part**)
 ### 📎 DimCustomer dataset
 Provide information about customers
 - CustomerKey : Unique ID of the customer

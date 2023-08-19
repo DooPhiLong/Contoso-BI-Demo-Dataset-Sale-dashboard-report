@@ -21,7 +21,20 @@
 - Third As i said in the Overall dashboard part, the Orders trend is downward in 2008 and 2009. But when i look at the pie chart show sale by years, the sale of 3 years is almost the same, This shows that although there are less orders in 2008 and 2009 than in 2007, the quantity of goods in each order must be much higher, and often the customer will be the exchange goods representative of big companies.
 - Fouth is the table that show detail about total sale and growthing percentage  by year and quarter, with the highest is **340,47%** from quarter2 2007 to quarter3 2007 and lowest is down **-95,55%** from quarter1 2007 to quarter2 2007
 
+# 3. Orders and Products
 
+![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/4acf8361-b59e-4bb1-9718-2febe1b3d83c)
+
+- First I achieved significant result, Number of Orders  (**3 billion**), available products (**2517**) and purchased products (**53 billion**), sale per order (**$1.13k**) and product (**$100**), the good thing is number of products returned (**494k**)  quite very small compared to purchased products, but we still need continue to reduce this number as much as possible by finding which product is returned from the customer most and review it and i'm going to do it below
+- Second im going to analyze detail 2 metric Number of Orders and number of products returned through the time by line chart. I observe that The number of orders was high in 2007 but in 2008 and 2009 there was a strong downward trend like i said in the Overall part. To explain this because in these 2 years we have to face a global financial crisis: 2009 was the time after the 2008 financial crisis that broke out from the US and spread to the world. The impact of this crisis continues to spread and has a major impact on the global economy. Many banks and large financial institutions face a significant decline, leading to bankruptcy, collapse or needing support from the government, leading to a decline in people's living standards also many businesses quality in the world. So the number of products returned reduce too.
+- Third im going to analyze detail the number of products category through time and get out top 5 best-selling products category in each time period by stacked column chart, from which it is possible to see the trends in purchasing products over time of customers. In addition, when I move the mouse pointer to any product category in the chart, I can see this product category is most popular and traded in which country it's most traded in, and what ages and types of jobs of customers it's popular with.
+
+  ![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/d02cd79f-f1df-4449-bb54-69bd8bd675a4)
+
+This helping us offer the most optimal production, improvement, promotion and advertising policies for all kinds of products at each time of the year.
+
+- Fouth is the columns chart, it shows me which brands are best selling products, from which we can make adjustments to the cooperation policy as well as the best exchange of goods between the two parties.
+- FIfth is the table with detail information about each product . I can observe total sale, quantity purchased, especially quantity returned by the slicer above, i can know which product is returned from customer most , which product is purchased most. So that we can make product reviews and adjust them
 
 
 

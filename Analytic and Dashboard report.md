@@ -34,7 +34,11 @@
 This helping us offer the most optimal production, improvement, promotion and advertising policies for all kinds of products at each time of the year.
 
 - Fouth is the columns chart, it shows me which brands are best selling products, from which we can make adjustments to the cooperation policy as well as the best exchange of goods between the two parties.
-- FIfth is the table with detail information about each product . I can observe total sale, quantity purchased, especially quantity returned by the slicer above, i can know which product is returned from customer most , which product is purchased most. So that we can make product reviews and adjust them
+- FIfth is the table with detail information about each product . I can observe total sale, quantity purchased, especially quantity returned by the slicer above
+
+![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/b1ae2220-fdd1-4b7e-ac44-f22c8e4ac33a)
+
+i can know which product is returned from customer most , which product is purchased most. So that we can make product reviews and adjust them
 
 
 

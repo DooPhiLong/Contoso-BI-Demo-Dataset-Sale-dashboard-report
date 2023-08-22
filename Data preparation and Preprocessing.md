@@ -162,7 +162,32 @@ Pick out any necessary dimensions for analytic
 To support for anlysis chart, We need to create following Measure and Calculated columns by DAX : 
 <details><summary> Click Here  </summary>
 
-  
+<details><summary> 
+Create a table from FactSales Dataset by getting 2 columns CustomerKey and Datekey to calculate the average number of days a customer will return.
+I couldn't calculate on FactSales Dataset directly because the data is two big and my laptop didn't have enough memory 😓😓. SO i just got out 300.000 sample rows from FactSales Dataset to calculated
+</summary>
+
+```
+Customer and returned time = 
+SUMMARIZE(
+    TOPN(300000,FactSales),FactSales[CustomerKey],FactSales[DateKey])
+```
+```
+Days to return = 
+var cd = 'Customer and returned time'[DateKey]
+var ci = 'Customer and returned time'[CustomerKey]
+return
+DATEDIFF(cd,
+    CALCULATE(
+        MIN('Customer and returned time'[DateKey]),
+        FILTER('Customer and returned time',
+            'Customer and returned time'[DateKey] > cd &&
+            'Customer and returned time'[CustomerKey] = ci
+        )
+    ),DAY)
+```
+</details> 
+
 <details><summary> Add Full name column to DimCustomer dataset </summary>
 
 ```

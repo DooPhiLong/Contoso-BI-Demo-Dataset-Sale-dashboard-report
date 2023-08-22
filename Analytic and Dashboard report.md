@@ -63,8 +63,23 @@ To come up with specific policies for that store area as well as research the cu
 
 it will show more detailed information about that store like information about the area, sales over time. I've found that the disparity in sales, as well as the ability to attract customers to keep stores, is largely due to the geographical location of that store. Stores located in geographically sparsely populated and underdeveloped areas will have relatively little revenue, for example Wisconsin state of Amecica, Thimphu of Bhutan, Venice of Italy....Although GuangDong of China is a big city and has a favorable geographical position, densely populated, it is still in the top of the cities with the lowest revenue, because here we have a lot of competitors. compete in the same industry, and we haven't really captured a large market share here yet.
 
+# 6. Geography
 
+![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/ef18cca2-9148-4c4f-9cc7-973672fdc62b)
 
+Our business does business on 3 global continents, 35 countries, 126 provinces and 512 cities. Our main market is in North America, namely the US, followed by the European market, and about the Asian market, we do not have a business expansion policy because currently in 2008 and In 2009, there is a global economic crisis. Through this report, I can select information from 3 filters to be able to view indicators through map and column charts.
+
+![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/eb019366-04b9-45d8-8ed4-6e1c8fa10563)
+
+In addition, to see details for each country, province, and city, I have created a table chart next to it to be able to assess the operation situation of each region, so that I can make the correct policies. Right, for example, in Asia, besides China and Japan, most of the revenue from other countries is still very small.
+
+# 7. Promotion
+
+![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/bdb6b48a-1135-4711-b104-61bcd1a544fe)
+
+We can see the majority of orders are applied with discounts at 10% and 20%. So much so that the revenue from these 2 discounts becomes very small compared to other discounts. Besides, when looking at the bar chart showing the number of discount codes applied to the order batch, the line chart shows the number of orders over time. In addition to the two years 2008 and 2009, which were affected by the global economic crisis, the increase in the issuance of promotional policies could not post the number of orders from customers, in 2007 the number of orders products reached the highest level at the time when our business applied promotional codes for 10% and 20% discount. From there, it shows that customers are extremely interested in shopping that is accompanied by discount promotion codes
+
+# 8. Recommendation
 
 
 

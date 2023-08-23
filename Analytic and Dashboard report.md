@@ -80,12 +80,71 @@ In addition, to see details for each country, province, and city, I have created
 We can see the majority of orders are applied with discounts at 10% and 20%. So much so that the revenue from these 2 discounts becomes very small compared to other discounts. Besides, when looking at the bar chart showing the number of discount codes applied to the order batch, the line chart shows the number of orders over time. In addition to the two years 2008 and 2009, which were affected by the global economic crisis, the increase in the issuance of promotional policies could not post the number of orders from customers, in 2007 the number of orders products reached the highest level at the time when our business applied promotional codes for 10% and 20% discount. From there, it shows that customers are extremely interested in shopping that is accompanied by discount promotion codes
 
 # 8. Recommendation
+- Enterprises at this time are going through the global economic crisis, and this is almost the main problem after this report. So we need to have policies and strategies to be able to minimize the risks as well as face it in the best way, if we encounter another such crisis in the future.
+  - **Assess and Monitor** : Enterprises should closely monitor economic indicators, government policies, and market trends to understand the evolving economic landscape. This will help them make informed decisions.
 
+  - **Financial Management** : Tighten financial controls, reduce unnecessary expenses, and optimize cash flow. This may involve delaying non-essential investments, renegotiating contracts, or downsizing where necessary.
 
+  - **Diversify Revenue Streams** : Over-reliance on a single product or market can be risky during an economic crisis. Diversifying into new markets or product lines can help stabilize revenue.
 
+  - **Customer Focus** : Maintain a strong customer focus. Understand their changing needs and preferences. Customer loyalty is valuable during tough times.
 
+  - **Cost Optimization** : Conduct a thorough review of operational costs. Look for ways to improve efficiency, automate processes, and reduce waste.
+  
+- About many product brands is the best seller of the company, we should :
+  - **Increase Inventory** : Ensure you have an ample supply of the best-selling product brands in stock to meet customer demand. Running out of stock can lead to missed sales and dissatisfied customers.
+  - **Optimize Product Listings** : Improve the product listings for these best-selling brands. This includes using high-quality images, detailed descriptions, and accurate pricing information. Make sure your product pages are optimized for SEO to attract more organic traffic.
 
+  - **Inventory Management** : Implement an effective inventory management system to avoid stockouts and overstock situations. Utilize data analytics to forecast demand and plan inventory accordingly.
+  - **Cooperation** : Propose long-term cooperation policies as well as ensure the supply of products from that brand in the most stable way.
 
+- About many product is the best seller of the company in each time in year, we should :
+  - **Scaling**: If these best-selling product brands are generating substantial revenue and demand, explore options for scaling your business, such as expanding into new markets or channels.
+  - **Inventory Management**:
+     - Ensure that you maintain sufficient inventory levels of these best-selling items, especially in anticipation of peak seasons and holidays.
+     - Implement just-in-time inventory practices to reduce storage costs while minimizing the risk of stockouts.
+  - **Pricing Strategy**:
+     - Adjust your pricing strategy based on demand fluctuations. You may consider dynamic pricing to maximize profits during high-demand periods.
+     - Offer occasional discounts or promotions to attract customers during slower seasons and maintain a competitive edge.
+
+  - **Seasonal Planning**:
+     - Develop a seasonal sales and marketing calendar that capitalizes on the natural demand patterns of these best-selling items.
+     - Plan marketing campaigns and product launches around peak seasons to maximize visibility and sales.
+
+  - **Marketing and Advertising**:
+     - Allocate a larger portion of your marketing budget to promote these best-selling products during their peak seasons.
+     - Create targeted advertising campaigns, email marketing, and social media promotions specifically tailored to these items.
+
+  - **Cross-Selling and Upselling**:
+     - Identify complementary products that can be cross-sold or bundled with these best-selling items to increase the average order value.
+     - Highlight these product pairings in your marketing efforts.
+- For products with low sales and high number of returns, we need to listen to customer feedback about the quality of that product, we need to find out the product's fault occurred during shipping. implement the production process as well as the transportation to have the best improvement, replacement and refund options for customers.
+- About the customers we should :
+  - **Analytics and Data Insights** : Continually analyze sales data and customer behavior related to these products. Age, degree, occupation, to offer effective and cost-effective marketing policies while still finding the right kind of customers. 
+  - **Monitor Trends** : Stay up-to-date with industry trends and consumer preferences. Adapt your product offerings and marketing strategies as needed to stay relevant.
+  **Social Media Promotion**: Promote your offer on various social media platforms. Create engaging posts, use relevant hashtags, and consider running paid ads for wider reach.
+  - **Customer Loyalty Programs**: Implement a loyalty program to reward repeat customers. Offer discounts, exclusive access, or points for purchases of best-selling products to incentivize customer loyalty.
+  - **Promotion Creatives**: Design visually appealing promotional materials. This includes eye-catching graphics, banners, and email templates. Ensure that they are consistent with your brand's identity.
+  - **Customer Support** : Provide excellent customer support for inquiries related to these best-selling products. Quick and helpful responses can lead to higher customer satisfaction and repeat business.
+  - **Customer's feedback understanding** : listen to customers to make the right improvements to their needs in terms of products, promotions, stores...
+  - **Awarding** : For customers who bring high sales, we will have gifts and special incentives for them, to say thank you as well as encourage them to refer more customers. with us
+- About the store relate with geography we should :
+  - For stores that have high sales and are in convenient locations, densely populated, economic development ... We should continue to invest in store expansion, building stores near offices, working areas of the main types of customers so that they can easily find our store
+  - For stores that have low sales in remote areas, the economy is less developed, and the population is sparse. We should invest less in store expansion and invest heavily in transportation services, because moving is really a difficult problem for them.
+  - We need to accelerate the expansion of market share in Asia, because the report shows that countries in Asia are very densely populated and the demand for shopping for devices is very high.
+- About the promotion relate with geography we should :
+  - **Understand Your Target Audience**: Before launching any promotion, it's crucial to know your target audience's preferences, behaviors, and pain points. Tailor your promotions to meet their needs and interests.
+  - **Set Clear Goals**: Define specific objectives for your promotion. Are you looking to boost sales, clear out inventory, acquire new customers, or reward loyal ones? Having clear goals will help you design an effective promotion.
+  - **Choose the Right Promotion Type**:
+    - **Discounts**: Offer percentage discounts, fixed amount discounts, or buy-one-get-one (BOGO) deals.
+    - **Free Shipping**: Shipping costs can deter customers, so consider offering free shipping during the promotion.
+    - **Flash Sales**: Limited-time offers create a sense of urgency.
+    - **Bundle Deals**: Package related products together at a discounted price.
+    - **Loyalty Programs**: Reward loyal customers with exclusive discounts or early access.
+    - **Referral Programs**: Encourage customers to refer friends and reward them for successful referrals.
+    - **Contests and Giveaways**: Engage your audience with fun contests and giveaways on social media.
+  - **Create a Sense of Urgency**: Encourage customers to act quickly by emphasizing limited quantities, a countdown timer, or a specific end date for the promotion.
+  - **Follow Up**: After the promotion ends, follow up with customers who made purchases to thank them and encourage repeat business. Consider offering exclusive discounts for their next purchase.
 
 
 

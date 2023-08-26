@@ -33,8 +33,8 @@ Provide information about customers
 - YearlyIncome : YearlyIncome of the customer
 - Education : Education of the customer
 - Occupation : Occupation of the customer
-- Full name : Full name of the customer (This is calculated column. I'm going to explant more clearly on **Data Preparation, Exploration and Cleaning part**)
-- Age: Age of the customer (This is calculated column. I'm going to explant more clearly on **Data Preparation, Exploration and Cleaning part**)
+- Full name : Full name of the customer (This is calculated column. I'm going to explant more clearly on **Data preparation and Preprocessing part**)
+- Age: Age of the customer (This is calculated column. I'm going to explant more clearly on **Data preparation and Preprocessing part**)
 #### Sample first 10 row of DimCustomer dataset
 ![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/e9634603-60f8-478f-ab13-4e50a54581f3)
 

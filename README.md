@@ -3,7 +3,7 @@
 
 ## 💼 Business Case and Requirement
 
-You are a Data Analyst working for an e-commerce company named X. You are tasked with preparing a presentation to present an overview of the company's business and operations to date for Sales and Operations Managers. 
+You are a Data Analyst working for an retail company based on The Contoso BI Demo dataset. You are tasked with preparing a presentation to present an overview of the company's business and operations to date for Sales and Operations Managers. 
 
 ### The presentation should include at a minimum the following information: 
 - Sale business and Products, Store overview. 

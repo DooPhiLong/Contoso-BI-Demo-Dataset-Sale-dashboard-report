@@ -115,7 +115,10 @@ Provide detail information of Orders
 ![image](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/assets/120476961/1dce69e5-f153-430d-a29a-eda4e6503cbd)
 
 ## A. [Data Preparation and Preprocessing](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-dashboard-report/blob/main/Data%20preparation%20and%20Preprocessing.md)
-## B. [Analysis](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/blob/main/Analytic%20and%20Dashboard%20report.md)
+
+## B. [Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFhMTIyZTctMGVhNS00M2U5LTg0YTAtNWE1YWJiYjYxODY5IiwidCI6Ijk4YWRhNjgwLWUzZjQtNDhjYi04ZmJiLWM4YjEwY2I5N2FlZCIsImMiOjEwfQ%3D%3D)
+
+## C. [Analysis](https://github.com/DooPhiLong/Contoso-BI-Demo-Dataset-Sale-report/blob/main/Analytic%20and%20Dashboard%20report.md)
 
 ---
 
